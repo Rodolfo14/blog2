@@ -8,7 +8,7 @@
   <body>
     <header class="header">
         <a class="logo" href="https://platzi.com">
-          <img src="https://hackathonbancomer.com/img/platzialiados.png" width="82" height="26" alt="platzi.com">
+          <img src="https://carlosazaustre.es/pics/logo_platzi.png" width="120" height="60" alt="platzi.com">
         </a>
         <div class="header-right">
          <nav>
