@@ -3,12 +3,12 @@
     <meta charset="utf-8">
     <link rel="stylesheet" href="platzi.css">
     <title>Platzi Blog</title>
-    <link href='https://static.platzi.com/media/achievements/platzi-bd.png' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
   </head>
   <body>
     <header class="header">
         <a class="logo" href="https://platzi.com">
-          <img src="https://static.platzi.com/media/organizations/platzilogo.png" width="82" height="26" alt="platzi.com">
+          <img src="https://hackathonbancomer.com/img/platzialiados.png" width="82" height="26" alt="platzi.com">
         </a>
         <div class="header-right">
          <nav>
