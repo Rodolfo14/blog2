@@ -3,7 +3,7 @@
     <meta charset="utf-8">
     <link rel="stylesheet" href="platzi.css">
     <title>Platzi Blog</title>
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
+    <link href='https://static.platzi.com/media/achievements/platzi-bd.png' rel='stylesheet' type='text/css'>
   </head>
   <body>
     <header class="header">
